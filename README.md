@@ -360,10 +360,15 @@ Event-discovery web app (INIT BUILD FIU) surfacing local events via a public eve
 
 <div align="center">
 
-![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragulkumar-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragulkumar-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragulkumar-v&theme=tokyonight" alt="Profile details" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragulkumar-v&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragulkumar-v&theme=tokyonight" alt="Top languages by repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragulkumar-v&theme=tokyonight" alt="Most-used languages by commit" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragulkumar-v&theme=tokyonight" alt="Contribution stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragulkumar-v&theme=tokyonight&utcOffset=-5" alt="Productive time" />
+
+<img src="https://streak-stats.demolab.com/?user=ragulkumar-v&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -371,12 +376,21 @@ Event-discovery web app (INIT BUILD FIU) surfacing local events via a public eve
 
 <div align="center">
 
-### 💬 Let's Connect
+## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-ragulkumar2611%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulkumar2611@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ragulkumar--v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragulkumar-v)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ragulvenkateswaran.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragulvenkateswaran.com)
+**I'm actively seeking full-time Data Engineer opportunities across the US** — let's build reliable, high-performance data systems that turn raw data into decisions teams can trust.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<p>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=Ragul%20Kumar%20Venkateswaran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ragulkumar2611@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+16892492057"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <a href="https://ragulvenkateswaran.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ragulkumar-v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ragulvenkateswaran.com/resume/"><img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="Thanks for stopping by!" />
+
+*"Data is only as valuable as the trust you can place in it."*
 
 </div>
