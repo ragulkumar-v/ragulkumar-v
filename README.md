@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**Data Engineer with 3+ years of experience designing and maintaining scalable data pipelines, models, and BI solutions across GCP, Azure, and Snowflake.**
+**Data Engineer with 5+ years of experience designing and maintaining scalable data pipelines, models, and BI solutions across GCP, Azure, and Snowflake.**
 
 Skilled in Python, SQL, Airflow, and dbt for data orchestration, ETL automation, and governance. Experienced in translating business requirements into reliable, auditable data products that power analytics, reporting, and self-service exploration. Strong collaborator in Agile teams, delivering trusted, high-performance data systems that drive strategic decision-making.
 
@@ -281,27 +281,106 @@ timeline
 
 ---
 
-## 🚀 Featured Projects
 
-### 📊 E-Commerce Real-Time Analytics Pipeline
+## 🏆 Career Highlights
 
 <div align="center">
 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+| 🎯 Metric | 📈 Result |
+| :---: | :--- |
+| 🧪 **Data Accuracy Achieved** | `90%+` via data governance & automated quality monitoring |
+| 🚀 **Deployment Reliability** | `+80%` with Azure DevOps & Terraform CI/CD |
+| ⚡ **Pipeline Efficiency Gain** | `+55%` on Databricks · dbt · Azure Data Factory |
+| 📡 **Real-Time Events Processed** | `1M+` daily events — Pub/Sub → Dataflow → BigQuery |
+| 🤖 **Manual Effort Reduced** | `−90%` via Java & shell automation *(automation excellence award)* |
+| 🎓 **FIU M.S. Computer Science GPA** | `4.0 / 4.0` |
+| 🧰 **Professional Experience** | `5+ years` across data engineering, cloud & product roles |
+| 📜 **Active Certifications** | Oracle Cloud DB Services · Oracle APEX Cloud Developer · LOMA 281 |
+| ☁️ **Cloud & Warehouses** | GCP · Azure · AWS · Snowflake · BigQuery |
 
 </div>
 
-Developed a **real-time streaming pipeline** (Pub/Sub → Dataflow → BigQuery) processing **1M+ daily events** from GA4. Designed semantic data models and built Looker dashboards enabling self-service BI exploration for product and marketing teams. Integrated data validation checks and automated reporting to maintain accuracy and timeliness.
+---
 
-**Impact:** Enabled real-time decision-making for marketing campaigns and product optimization
+## 🚀 Featured Projects
+
+> Grouped by domain — a curated set of favourite builds. The full catalogue is in **More Projects** below.
+
+### 🔄 Data Pipelines & Orchestration
+
+**[ELT Pipeline — dbt · Snowflake · Airflow](https://github.com/ragulkumar-v/elt-pipeline-dbt-snowflake-airflow)**<br>
+Production-style ELT that lands raw data into **Snowflake**, transforms it with tested, version-controlled **dbt** models, and orchestrates scheduled runs on **Airflow**. &nbsp;`dbt` · `Snowflake` · `Airflow`
+
+**[End-to-End Pipeline — Snowflake · dbt · Tableau](https://github.com/ragulkumar-v/end-to-end-pipeline-snowflake-dbt-tableau)**<br>
+End-to-end analytics flow: Snowflake ingestion → dbt modeling → **Tableau** dashboards for governed self-service BI. &nbsp;`Snowflake` · `dbt` · `Tableau`
+
+**[StreamGuard CDC](https://github.com/ragulkumar-v/streamguard-cdc)**<br>
+Change-Data-Capture streaming prototype that guards data freshness and integrity as records flow into the warehouse. &nbsp;`Python` · `CDC` · `Streaming`
+
+### 🏛️ Data Warehousing & Quality
+
+**[SQL Data Warehouse — Medallion Architecture](https://github.com/ragulkumar-v/sql-datawarehouse-project)**<br>
+Layered **bronze / silver / gold** warehouse with staging, transforms, and analytics-ready views. &nbsp;`SQL` · `T-SQL` · `Data Warehouse`
+
+**[Lakehouse Quality Gate](https://github.com/ragulkumar-v/lakehouse-quality-gate)**<br>
+Automated data-quality gate that runs validation checks and blocks bad data from promoting between lakehouse layers. &nbsp;`Python` · `Data Quality` · `Lakehouse`
+
+### 📈 Analytics, BI & ML
+
+**[Customer Segmentation Analytics](https://github.com/ragulkumar-v/data-analytics-customer-segmentation)**<br>
+Clustering in Python/Jupyter to group customers by behaviour for targeted marketing. &nbsp;`Python` · `Clustering` · `Analytics`
+
+**[Time-Series Forecasting](https://github.com/ragulkumar-v/time-series-forecasting-python)**<br>
+Feature engineering and models for demand & metric prediction with evaluation notebooks. &nbsp;`Python` · `Forecasting` · `Jupyter`
+
+**[Multi-Source Marketing Analytics](https://github.com/ragulkumar-v/multi-source-marketing-analytics)**<br>
+Blends multiple data sources into unified reporting for campaign & channel performance. &nbsp;`Analytics` · `BI` · `ETL`
+
+### 🛠️ Automation & Web
+
+**[Log Analysis & Anomaly Detection](https://github.com/ragulkumar-v/log-analysis-anomaly-detection)**<br>
+Utilities to parse operational logs and flag outliers & irregular patterns automatically. &nbsp;`Python` · `Anomaly Detection` · `Observability`
+
+**[Eventi-Scout](https://github.com/ragulkumar-v/Eventi-Scout)**<br>
+Event-discovery web app (INIT BUILD FIU) surfacing local events via a public events API. &nbsp;`JavaScript` · `React` · `API`
 
 ---
 
-### ☁️ Azure End-to-End Data Engineering
+## 📂 More Projects
+
+**🔄 Pipelines & Lakehouse** — [lakehouse](https://github.com/ragulkumar-v/lakehouse) · [analytics-engineering-prototype](https://github.com/ragulkumar-v/analytics-engineering-prototype) · [expectate](https://github.com/ragulkumar-v/expectate) · [cohortkit](https://github.com/ragulkumar-v/cohortkit) · [parquetize](https://github.com/ragulkumar-v/parquetize)
+
+**📊 Analytics & BI** — [retail_insights](https://github.com/ragulkumar-v/retail_insights) · [retail-margin-cockpit](https://github.com/ragulkumar-v/retail-margin-cockpit) · [uber-expenses-tracking](https://github.com/ragulkumar-v/uber-expenses-tracking) · [field-ops-sql-cost-audit](https://github.com/ragulkumar-v/field-ops-sql-cost-audit)
+
+**🤖 Data Science & Optimization** — [supply-chain-optimizer](https://github.com/ragulkumar-v/supply-chain-optimizer) · [leakcheck](https://github.com/ragulkumar-v/leakcheck)
+
+**⚙️ Automation & Foundations** — [Python-Automation](https://github.com/ragulkumar-v/Python-Automation) · [DSA](https://github.com/ragulkumar-v/DSA) · [Sequel-Basics](https://github.com/ragulkumar-v/Sequel-Basics) · [Git-Basics](https://github.com/ragulkumar-v/Git-Basics) · [Java-basics](https://github.com/ragulkumar-v/Java-basics) · [Swift-Campus](https://github.com/ragulkumar-v/Swift-Campus)
+
+**🌐 Web** — [Receipe-app](https://github.com/ragulkumar-v/Receipe-app) · [Guess-the-Number](https://github.com/ragulkumar-v/Guess-the-Number)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logo
+![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragulkumar-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragulkumar-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragulkumar-v&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-ragulkumar2611%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulkumar2611@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ragulkumar--v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragulkumar-v)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ragulvenkateswaran.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragulvenkateswaran.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
