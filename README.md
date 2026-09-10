@@ -368,7 +368,6 @@ Event-discovery web app (INIT BUILD FIU) surfacing local events via a public eve
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragulkumar-v&theme=tokyonight" alt="Contribution stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragulkumar-v&theme=tokyonight&utcOffset=-5" alt="Productive time" />
 
-<img src="https://streak-stats.demolab.com/?user=ragulkumar-v&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -389,7 +388,9 @@ Event-discovery web app (INIT BUILD FIU) surfacing local events via a public eve
   <a href="https://ragulvenkateswaran.com/resume/"><img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=ffffff&fontAlignY=65" alt="Thanks for stopping by!" />
+### 🙌 Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=140&section=footer" alt="Footer wave" />
 
 *"Data is only as valuable as the trust you can place in it."*
 
