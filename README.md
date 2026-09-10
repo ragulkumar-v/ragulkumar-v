@@ -389,7 +389,7 @@ Event-discovery web app (INIT BUILD FIU) surfacing local events via a public eve
   <a href="https://ragulvenkateswaran.com/resume/"><img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="Thanks for stopping by!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=ffffff&fontAlignY=65" alt="Thanks for stopping by!" />
 
 *"Data is only as valuable as the trust you can place in it."*
 
