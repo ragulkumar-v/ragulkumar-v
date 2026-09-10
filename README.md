@@ -132,10 +132,6 @@ mindmap
 ```mermaid
 timeline
     title Professional Journey
-    section Education
-    2024-2025 : Masters in CS
-              : Florida International University
-              : GPA 4.0
     section Early Career
     2018-2020 : Product Specialist
               : Mphasis
@@ -145,14 +141,14 @@ timeline
               : Cognizant
               : Cloud integration lead
               : Team leadership
+    section Higher Education
+    2024-2025 : Masters in CS
+              : Florida International University
+              : GPA 4.0
     section Current Role
-    2024-Present : Data Engineer
+    2025-Present : Data Engineer
                  : FIU Research Assistant
                  : GCP and Azure pipelines
-                 : 90% data accuracy achieved
-    2024 : Web Developer
-         : INIT BUILD FIU
-         : React and Firebase
 ```
 
 ---
